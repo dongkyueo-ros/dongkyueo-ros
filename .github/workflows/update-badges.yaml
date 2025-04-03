@@ -15,3 +15,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: "dongkyu9303@gmail.com" # optional, but default will use the same from github
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
