@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ## Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/6aed9606-ac65-462d-ae7d-dfed5942a2bd "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
