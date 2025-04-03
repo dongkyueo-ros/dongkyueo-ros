@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservicesColor=white"> 
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=azure&logoColor=white">
 </p>
 
