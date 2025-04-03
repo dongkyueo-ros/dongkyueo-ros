@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs at KST am 3:30
     - cron: "30 18 * * *"
+  workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with badges
