@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-plastic&logo=amazonwebservices&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RHEL-FCC624?style=flat-plastic&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rocky%20Linux-EE0000?style=flat-plastic&logo=rockylinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-plastic&logo=centos&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-10B981?style=flat-plastic&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-flat-plastic&logo=azure&logoColor=white"/>
 </p>
 
@@ -37,7 +41,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-plastic&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-plastic&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegraf-3E4E88?style=flat-plastic&logo=influxdata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegraf-3E4E88?style=flat-plastic&logo=influxdb&logoColor=white"/>
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-plastic&logo=influxdb&logoColor=white"/>
 </p>
 
