@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
+<p>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+
+</p>
+
 [![Dongkyueo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyueo-ros&theme=swift)](https://github.com/dongkyueo-ros/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=dongkyueo-ros)](https://github.com/dongkyueo-ros/github-profile-trophy)-->
