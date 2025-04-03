@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-plastic&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-plastic&logo=rockylinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-plastic&logo=centos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-plastic&logo=amazonwebservices&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-plastic&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-flat-plastic&logo=azure&logoColor=white"/>
 </p>
 
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-plastic&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/KubeSpray-3D647F?style=flat-plastic&logo=kubespray&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-plastic&logo=amazoneks&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-plastic&logo=argo&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LENS-3D90CE?style=flat-plastic&logo=lens&logoColor=white"/>
 </p>
 
 <p>
