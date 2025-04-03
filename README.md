@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-plastic&logo=amazonwebservices&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-flat-plastic&logo=azure&logoColor=white">
 </p>
 
 
 <p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
 </p>
 
