@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=dongkyueo-ros)](https://github.com/dongkyueo-ros/github-profile-trophy)-->
 
-<!--![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongkyueo-ros&theme=vue)-->
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongkyueo-ros&theme=vue)
