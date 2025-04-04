@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/6aed9606-ac65-462d-ae7d-dfed5942a2bd "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 [![Dongkyueo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyueo-ros&theme=swift)](https://github.com/dongkyueo-ros/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=dongkyueo-ros)](https://github.com/dongkyueo-ros/github-profile-trophy)-->
