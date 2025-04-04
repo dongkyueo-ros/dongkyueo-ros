@@ -1,10 +1,11 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at KST am 3:30
-    - cron: "30 18 * * *"
+  # schedule:
+  #   # Runs at KST am 3:30
+  #   - cron: "30 18 * * *"
   workflow_dispatch:
+  # Run workflow 수동 실행
 
 jobs:
   update-readme:
@@ -16,5 +17,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: "dongkyu-lee.c89001e5" # CREDLY_USER는 “credly” https://www.credly.com/users/{user} 로 검색하여 나오는 본인의 아이디를 넣어줍니다.
+          CREDLY_USER: "dongkyu-lee.c89001e5" 
+          # CREDLY_USER는 “credly” https://www.credly.com/users/{user} 로 검색하여 나오는 본인의 아이디를 넣어줍니다.
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
