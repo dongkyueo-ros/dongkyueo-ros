@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/6aed9606-ac65-462d-ae7d-dfed5942a2bd "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
+<!--
 [![Dongkyueo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyueo-ros&theme=swift)](https://github.com/dongkyueo-ros/github-readme-stats)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=dongkyueo-ros)](https://github.com/dongkyueo-ros/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dongkyueo-ros)](https://github.com/dongkyueo-ros/github-profile-trophy)
+-->
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongkyueo-ros&theme=vue)
