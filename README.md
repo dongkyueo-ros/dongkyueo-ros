@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Certifications
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/50daf366-8080-47a5-b701-3bfadb1d04c3" title="AWS Certified Security – Specialty"><img src="https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2aba7aab-b6d7-427a-b84f-deaf17542037" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1a922980-ce38-4854-aa6e-028e52402db4" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
