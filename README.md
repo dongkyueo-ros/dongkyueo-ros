@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/2aba7aab-b6d7-427a-b84f-deaf17542037)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/1a922980-ce38-4854-aa6e-028e52402db4)
 [![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/549e5d0a-5a10-4a52-813c-eb98a42f3f17)
-[![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/c68713ca-f5e6-4e7a-a543-6e9c0f85b5a5)
+[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/80x80/images/671af5e3-e2c7-42e2-bfe8-58e723d49ced/converted20260222-31-eq0ags.png)](https://www.credly.com/users/dongkyu-lee.c89001e5/badges)
 [![Google Cloud Computing Foundations Certificate](https://images.credly.com/size/80x80/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/badges/7648aa0a-96c7-47e8-9d3f-175208d9414c)
+[![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/c68713ca-f5e6-4e7a-a543-6e9c0f85b5a5)
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/d14c0527-eb06-400d-8597-3db76519de12)
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/3cc8986d-a777-496f-9800-88e984f07a8a)
 [![Monitoring in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/5a9654e8-37e5-4043-8a94-eeb0f98a2a9c/image.png)](https://www.credly.com/badges/6ede039b-bdde-4aea-b0fa-820ee24b10da)
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/badges/f053a314-3d23-44b4-b749-802367c1f69c)
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/badges/c2ddac65-b305-43ed-bce4-f1d529f3ae8d)
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/d5916cf9-3eb6-4d82-aab0-04caf693b49e)
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/80x80/images/671af5e3-e2c7-42e2-bfe8-58e723d49ced/converted20260222-31-eq0ags.png)](https://www.credly.com/users/dongkyu-lee.c89001e5/badges)
 <!--END_SECTION:badges-->
 
 <!--
